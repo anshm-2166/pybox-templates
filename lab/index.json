@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "name": "NumPy",
+      "description": "NumPy is the foundation of numerical computing in Python. Covers arrays, broadcasting, linear algebra, random generation, and vectorised operations.",
+      "tags": ["numpy", "data science"]
+    },
+    {
+      "name": "Matplotlib",
+      "description": "Matplotlib is Python's core plotting library. Covers line charts, scatter plots, histograms, subplots, 3D surfaces, and annotations.",
+      "tags": ["matplotlib", "data visualization"]
+    },
+    {
+      "name": "Pandas",
+      "description": "Pandas is the go-to library for tabular data manipulation. Covers DataFrames, groupby, merging, time-series, missing data, and method chaining.",
+      "tags": ["pandas", "data wrangling"]
+    },
+    {
+      "name": "Seaborn",
+      "description": "Seaborn builds on Matplotlib to produce statistical graphics with less code. Covers distribution plots, categorical charts, pair grids, heatmaps, and regression plots.",
+      "tags": ["seaborn", "data visualization"]
+    },
+    {
+      "name": "Scikit-learn",
+      "description": "Scikit-learn is Python's standard machine learning library. Covers classification, regression, pipelines, cross-validation, and hyperparameter tuning.",
+      "tags": ["scikit-learn", "machine learning"]
+    },
+    {
+      "name": "SciPy",
+      "description": "SciPy extends NumPy with scientific and engineering algorithms. Covers hypothesis testing, optimization, integration, curve fitting, and signal processing.",
+      "tags": ["scipy", "scientific computing"]
+    }
+  ]
+}
